@@ -1,2 +1,4 @@
 StoreTimeSeries.Rproj
 .Rproj.user
+.DS_Store
+sample_submission.csv
